@@ -8,8 +8,6 @@ GIF Browser & Converter for Instagram
 
 
 
-
-
 📖 Introduction
 
 This Flutter app is designed for Instagram users who love sharing creative GIF content. It allows you to browse GIFs, download them, and instantly convert them into MP4 videos using FFmpeg. Since Instagram doesn’t support GIF uploads directly, this app bridges the gap by providing a quick and reliable conversion tool.
