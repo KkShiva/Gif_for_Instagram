@@ -32,7 +32,7 @@ Lightweight, smooth, and optimized for mobile use.
 
 Open the app and browse for a GIF you like.
 
-Tap to download the GIF.
+Hold to download the GIF.
 
 The app will automatically convert it into an MP4 video.
 
